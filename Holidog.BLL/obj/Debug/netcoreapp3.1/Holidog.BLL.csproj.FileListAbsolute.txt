@@ -1,0 +1,11 @@
+D:\SampleDemo\Holidog\Holidog.BLL\bin\Debug\netcoreapp3.1\Holidog.BLL.deps.json
+D:\SampleDemo\Holidog\Holidog.BLL\bin\Debug\netcoreapp3.1\Holidog.BLL.dll
+D:\SampleDemo\Holidog\Holidog.BLL\bin\Debug\netcoreapp3.1\Holidog.BLL.pdb
+D:\SampleDemo\Holidog\Holidog.BLL\obj\Debug\netcoreapp3.1\Holidog.BLL.csprojAssemblyReference.cache
+D:\SampleDemo\Holidog\Holidog.BLL\obj\Debug\netcoreapp3.1\Holidog.BLL.AssemblyInfoInputs.cache
+D:\SampleDemo\Holidog\Holidog.BLL\obj\Debug\netcoreapp3.1\Holidog.BLL.AssemblyInfo.cs
+D:\SampleDemo\Holidog\Holidog.BLL\obj\Debug\netcoreapp3.1\Holidog.BLL.dll
+D:\SampleDemo\Holidog\Holidog.BLL\obj\Debug\netcoreapp3.1\Holidog.BLL.pdb
+D:\SampleDemo\Holidog\Holidog.BLL\bin\Debug\netcoreapp3.1\Holidog.DAL.dll
+D:\SampleDemo\Holidog\Holidog.BLL\bin\Debug\netcoreapp3.1\Holidog.DAL.pdb
+D:\SampleDemo\Holidog\Holidog.BLL\obj\Debug\netcoreapp3.1\Holidog.BLL.csproj.CopyComplete

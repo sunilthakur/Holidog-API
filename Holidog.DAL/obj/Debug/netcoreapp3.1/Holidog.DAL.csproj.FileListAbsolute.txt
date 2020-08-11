@@ -1,0 +1,11 @@
+D:\SampleDemo\Holidog\Holidog.DAL\bin\Debug\netcoreapp3.1\Holidog.DAL.deps.json
+D:\SampleDemo\Holidog\Holidog.DAL\bin\Debug\netcoreapp3.1\Holidog.DAL.dll
+D:\SampleDemo\Holidog\Holidog.DAL\bin\Debug\netcoreapp3.1\Holidog.DAL.pdb
+D:\SampleDemo\Holidog\Holidog.DAL\obj\Debug\netcoreapp3.1\Holidog.DAL.AssemblyInfoInputs.cache
+D:\SampleDemo\Holidog\Holidog.DAL\obj\Debug\netcoreapp3.1\Holidog.DAL.AssemblyInfo.cs
+D:\SampleDemo\Holidog\Holidog.DAL\obj\Debug\netcoreapp3.1\Holidog.DAL.dll
+D:\SampleDemo\Holidog\Holidog.DAL\obj\Debug\netcoreapp3.1\Holidog.DAL.pdb
+D:\SampleDemo\Holidog\Holidog.DAL\bin\Debug\netcoreapp3.1\Holidog.DAL.runtimeconfig.json
+D:\SampleDemo\Holidog\Holidog.DAL\bin\Debug\netcoreapp3.1\Holidog.DAL.runtimeconfig.dev.json
+D:\SampleDemo\Holidog\Holidog.DAL\obj\Debug\netcoreapp3.1\Holidog.DAL.genruntimeconfig.cache
+D:\SampleDemo\Holidog\Holidog.DAL\obj\Debug\netcoreapp3.1\Holidog.DAL.csprojAssemblyReference.cache
